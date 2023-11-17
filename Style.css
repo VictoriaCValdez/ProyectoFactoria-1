@@ -1,0 +1,240 @@
+.img-logo {
+    width: 150px;
+    min-height: 75px;
+    margin-left: 50px;
+    align-items: center;
+}
+
+.logo {
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: baseline;
+
+}
+
+.navbar {
+    display: flex;
+    width: 100%;
+    justify-content: baseline;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.menu-title {
+    display: flex;
+    align-items: center;
+    width: 50%;
+    margin: auto;
+    font-family: sans-serif;
+    font-weight: 500;
+
+    justify-content: flex-end;
+    justify-content: space-around;
+    text-align: right;
+}
+.menu-desplegable {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.contenido-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  width: 140%;
+  flex-direction: column;
+  font-weight: bolder;
+  background-color: white;
+}
+
+.menu-desplegable:hover .contenido-menu {
+  display: flex;
+}
+.menu-ex {
+    color: #f25278;
+}
+
+.dawnload-1 {
+    margin: 30px;
+    padding: 10px;
+    border-color: #f25278;
+    border-radius: 20px;
+    color: #f25278;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: flex-end;
+}
+
+.header {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.iphone-header {
+    width: 1280px;
+    height: 1280px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.mobileapp-landingpage {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 88px;
+}
+
+.textmobile-center {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkgrey;
+    width: 50%;
+    font-size: 19px;
+    font-weight:500;
+}
+
+.btn-1 {
+    margin: 10px;
+    padding: 10px;
+    color: white;
+    background-color: #f25278;
+    border-radius: 20px;
+    border-color: #f25278;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.iphone {
+    width: 1280px;
+    height: 1280px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.icons {
+    min-width: 100px;
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+
+.redonda1 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #d7bde2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.redonda2 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #38bfa67a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.redonda3 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #d7bde2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.redonda3 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #e91e6294;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.redonda4 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #ffb66265;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.redonda5{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #409dc486;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icons{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin: 100px;
+    gap: 110px;
+}
+.text-icons{
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.parte-2{
+    width: 100%;
+    margin: top 140px;
+    background-color:#d7bde2 ;
+    display: flex;
+}
+.contenedor-imagen-2prt{
+    width: 50px;
+    display: flex;
+    justify-content: center;
+}
+.mypicks{
+    width: 600px;
+}
+.parte2-aside{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
+.parte2-aside{
+    font-size: 60px;
+    width: 60%;
+}
+.parte2-aside{
+    font-size: 25px;
+    width: 60%;
+    color: #000000;
+}
+.parte2-aside{
+    font-size: 25px;
+    width: 60%;
+    color: #070707;
+}
